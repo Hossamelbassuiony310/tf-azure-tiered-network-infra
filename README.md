@@ -36,4 +36,4 @@ The network is segmented into two main tiers:
 
 ## Diagram
 
-![Azure Tiered Network Architecture](./diagram/AWS-Resource-Creation-Flow-2026-03-06-145648.png)
+![Azure Tiered Network Architecture](./diagram/AWS%20Resource%20Creation%20Flow-2026-03-06-145648.png)
